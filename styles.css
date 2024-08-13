@@ -1,0 +1,6 @@
+.section {
+  height: 100vh; /* Cada sección ocupa toda la altura de la pantalla */
+  position: relative;
+  opacity: 1;
+  transition: opacity 0.5s ease;
+}
